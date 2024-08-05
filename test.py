@@ -1,0 +1,1 @@
+print('Hello world this works and this is my first script on this lappy!')
